@@ -1,4 +1,4 @@
-# BRPA-baymax-remote-presenter-assistant
+# BRPA Baymax-remote-presenter-assistant
 
 [![(simple build status)](https://img.shields.io/badge/BRPA-v0.1-brightgreen.svg)]()
 [![(simple build status)](https://img.shields.io/badge/build-passing-brightgreen.svg)]()
